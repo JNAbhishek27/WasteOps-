@@ -2,6 +2,7 @@
   "name": "WasteOps",
   "description": "Autonomous AI Agent for Smart Waste Collection Operations (Taskmaster Hackathon Track)",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
