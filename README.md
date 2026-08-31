@@ -206,6 +206,6 @@ npm start
 
 ## 👥 Hackathon Team & Acknowledgments
 
-- **Developer**: Abhishek Jha (`jnabhishek01@gmail.com`)
+- **Developer**: Abhishek J N (`jnabhishek01@gmail.com`)
 - **Built for**: Google AI Studio / All Things Agentic Hackathon — *The Taskmaster Track*
 - **Technology Partners**: Google Cloud Platform, Gemini API, Vite, React
